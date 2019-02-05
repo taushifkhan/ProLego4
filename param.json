@@ -1,0 +1,9 @@
+{
+    "EH": 2, 
+    "EE": 2, 
+    "pdbDir": "./", 
+    "dsspDir": "./", 
+    "HH": 3, 
+    "HE": 2, 
+    "outDir": "../csJson/"
+}
